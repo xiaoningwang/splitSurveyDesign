@@ -1,0 +1,18 @@
+Package: splitSurveyDesign
+Type: Package
+Title: Design and Analysis Tools for Split Questionnaire Surveys
+Version: 0.1.0
+Authors@R: person("Xiaoning", "Wang", role = c("aut", "cre"),
+                  email = "sdwangxiaoning@cuc.edu.cn")
+Author: Xiaoning Wang [aut, cre]
+Maintainer: Xiaoning Wang <sdwangxiaoning@cuc.edu.cn>
+Description: Dependency-free tools for constructing split questionnaire
+    patterns, allocating samples under cost or variance criteria, estimating
+    means from planned-missing survey data, simple imputation, generalized
+    regression estimation, and design evaluation by simulation.
+Depends: R (>= 3.5.0)
+LazyData: true
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Suggests: methods

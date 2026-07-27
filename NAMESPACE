@@ -1,0 +1,7 @@
+export(pattern_generate)
+export(allocation_cost)
+export(allocation_variance)
+export(estimate_split)
+export(impute_split)
+export(greg_estimate)
+export(evaluate_design)
